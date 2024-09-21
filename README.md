@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... surviving my courseload
 - 🌱 I’m currently learning ... compsci, data science and machine learning
 - 💞️ I’m looking to collaborate on ... passing this class
-- 📫 How to reach me ... 
+- 📫 How to reach me ... seance
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... used to be a technician on naval nuclear reactors
 
